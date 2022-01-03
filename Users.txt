@@ -1,0 +1,7 @@
+Jim Jackson/jimj@gmail.com/jackson123/none/Tom and Sara's Wedding,Tommy's 19th Birthday,New Recruits' Potluck,/guest only
+Gary Stu/gs123@yahoo.com/stu123/none/Tommy's 19th Birthday,/all purpose/Tom and Sara's Wedding,New Recruits' Potluck,
+Bob Turner/bobt@msn.com/password26/ITP 265 Potluck,/none/guest only
+Mary Sue/marysue123@yahoo.com/sue123/none/Tom and Sara's Wedding,Tommy's 19th Birthday,New Recruits' Potluck,/guest only
+Ammar Idrees/idrees@usc.edu/ammar123/none/none/all purpose/ITP 265 Potluck,
+Tommy Pickles/TP123@msn.com/pickles123/ITP 265 Potluck,/none/all purpose/Tommy's 19th Birthday,
+Ted Smith/teddy@yahoo.com/smith123/Tommy's 19th Birthday,/New Recruits' Potluck,/all purpose/none
